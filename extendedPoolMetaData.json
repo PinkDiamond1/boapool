@@ -5,11 +5,12 @@
         "location": "Bremen, Germany",
         "social": {
             "telegram_handle": "boapool",
-            "github_handle": "Skeeter69"
+            "github_handle": "Skeeter69",
+            "twitter_handle": "BOA_Pool"
         },
         "about": {
             "me": "https://armada-alliance.com/identities/skeeter",
-            "server": "Fully running on 64-bit ARMed Raspberry Pi's with 240GB Intenso High Performance M.2 SATA storage.",
+            "server": "Fully running on 64-bit ARMed Raspberry Pi's!",
             "company": "Armada Alliance"
         },
     "my-pool-ids": {
